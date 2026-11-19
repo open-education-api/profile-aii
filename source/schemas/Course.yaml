@@ -1,0 +1,8 @@
+required:
+  - courseId
+  - name
+  - primaryCode
+  - duration
+properties:
+  validFrom: null
+  validTo: null

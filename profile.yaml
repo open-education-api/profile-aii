@@ -1,0 +1,11 @@
+profileName: profile-example
+profileVersion: v1.0
+oeapi:
+  oeapiPath: ../base/oeapi
+  oeapiMinVersions:
+    - v6.1
+    - v7.0
+
+consumers:
+  - consumerName: consumer-example
+    path: source/consumers/consumer-example
