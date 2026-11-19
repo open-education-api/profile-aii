@@ -1,2 +1,2 @@
 # profile-aii
-Profile and consumer for air
+Profile and consumer for aii
