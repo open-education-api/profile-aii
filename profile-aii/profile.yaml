@@ -1,4 +1,4 @@
-profileName: profile-example
+profileName: profile-aii
 profileVersion: v1.0
 oeapi:
   oeapiPath: ../base/oeapi
@@ -7,5 +7,5 @@ oeapi:
     - v7.0
 
 consumers:
-  - consumerName: consumer-example
-    path: source/consumers/consumer-example
+  - consumerName: consumer-aii
+    path: source/consumers/consumer-aii

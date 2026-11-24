@@ -1,7 +1,0 @@
-consumerName: consumer-example
-consumerKey: consumer-example
-consumerVersion: v2.1
-
-oeapiMinVersions:
-  - v6.1
-  - v7.0
